@@ -1,1 +1,5 @@
---- {}
+---
+concourse_phoenix_example_app/concourse_phoenix_example.tar.gz:
+  object_id: abf566c9-df49-4664-9995-8a068010906a
+  sha: 6e8155bb2b287ea0d5e05d0c2e9107214ee271cd
+  size: 41748721

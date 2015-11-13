@@ -1,0 +1,7 @@
+---
+name: concourse_phoenix_example
+packages:
+  - concourse_phoenix_example_app
+templates:
+  ignoreme: ignoreme
+properties: {}
